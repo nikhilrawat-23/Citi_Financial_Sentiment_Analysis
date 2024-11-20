@@ -41,7 +41,7 @@ Project Structure
 
 How to Use
 
-Clone the repository: git clone https://github.com/your-username/MarketPulse_Pro.git
+Clone the repository: git clone https://github.com/nikhilrawat-23/MarketPulse_Pro.git
 
 Install dependencies: pip install -r requirements.txt
 
